@@ -1,7 +1,7 @@
 criaCartao(
     'Poções',
     'Qual é o item necessário para criar uma "poção de cura" em Minecraft?',
-    'Para criar uma poção de cura, você precisa de uma garra de ghast e uma poção de cura instantânea (gerada a partir de uma poção de cura com água). A garra de ghast é o ingrediente que transforma a poção em "cura instantânea".'
+    'Para criar uma poção de cura, você precisa de uma lagrima de ghast e uma poção de cura instantânea (gerada a partir de uma poção de cura com água). A garra de ghast é o ingrediente que transforma a poção em "cura instantânea".'
 )
 
 criaCartao(
@@ -23,13 +23,13 @@ criaCartao(
 )
 
 criaCartao(
-    'MINECRAFT'
-    'Qual é a diferença entre o modo "Hardcore" e o modo "Sobrevivência"?'
+    'MINECRAFT' ,
+    'Qual é a diferença entre o modo "Hardcore" e o modo "Sobrevivência"?' ,
     'No modo Hardcore, o jogo é jogado no nível mais difícil (Hard), e, se o jogador morrer, ele perde permanentemente o mundo, sem a possibilidade de respawn. No modo Sobrevivência, você pode morrer e continuar jogando, podendo salvar e carregar o jogo em outra ocasião.'
 )
 
 criaCartao(
-    'Mobs'
-    'Qual mob pode ser montado em Minecraft?'
+    'Mobs' ,
+    'Quais mobs podem ser montado em Minecraft?' ,
     'Alguns mobs que podem ser montados incluem cavalos, burros, lhamas, porcos (com um totem de sela) e até mesmo um Ender Dragon (se você usar um comando ou mods).'
 )
